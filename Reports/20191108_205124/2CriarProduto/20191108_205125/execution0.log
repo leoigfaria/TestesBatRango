@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-08T20:51:57</date>
+  <millis>1573253517233</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/2CriarProduto</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">2CriarProduto</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/2CriarProduto</property>
+</record>
+<record>
+  <date>2019-11-08T20:51:57</date>
+  <millis>1573253517259</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = Leonardo - 172.22.1.157</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">Leonardo - 172.22.1.157</property>
+</record>
+<record>
+  <date>2019-11-08T20:51:57</date>
+  <millis>1573253517261</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2019-11-08T20:51:57</date>
+  <millis>1573253517262</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 172.22.1.157</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">172.22.1.157</property>
+</record>
+<record>
+  <date>2019-11-08T20:51:57</date>
+  <millis>1573253517263</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.3.3.11</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.3.3.11</property>
+</record>
+<record>
+  <date>2019-11-08T20:51:57</date>
+  <millis>1573253517650</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/CadastroDeProduto/CriarNovoProduto</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/CadastroDeProduto/CriarNovoProduto</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/CadastroDeProduto/CriarNovoProduto</property>
+  <property name="source">C:\\Users\\Leonardo\\Katalon Studio\\BatRango\\Test Cases\\CadastroDeProduto\\CriarNovoProduto.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-11-08T20:51:58</date>
+  <millis>1573253518178</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Pagina_Inicial/PaginaInicial_Btn_Produtos\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">1</property>
+</record>
+</log>

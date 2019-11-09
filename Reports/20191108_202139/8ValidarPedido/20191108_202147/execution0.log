@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-11-08T20:22:12</date>
+  <millis>1573251732375</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/8ValidarPedido</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">8ValidarPedido</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/8ValidarPedido</property>
+</record>
+<record>
+  <date>2019-11-08T20:22:12</date>
+  <millis>1573251732443</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = Leonardo - 172.22.1.157</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">Leonardo - 172.22.1.157</property>
+</record>
+<record>
+  <date>2019-11-08T20:22:12</date>
+  <millis>1573251732446</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2019-11-08T20:22:12</date>
+  <millis>1573251732447</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 172.22.1.157</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">172.22.1.157</property>
+</record>
+<record>
+  <date>2019-11-08T20:22:12</date>
+  <millis>1573251732448</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.3.3.11</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.3.3.11</property>
+</record>
+<record>
+  <date>2019-11-08T20:22:13</date>
+  <millis>1573251733640</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/VisualizacaoDoPedido/ValidarPedido</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/VisualizacaoDoPedido/ValidarPedido</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/VisualizacaoDoPedido/ValidarPedido</property>
+  <property name="source">C:\\Users\\Leonardo\\Katalon Studio\\BatRango\\Test Cases\\VisualizacaoDoPedido\\ValidarPedido.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-11-08T20:22:18</date>
+  <millis>1573251738001</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : return null</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">-1</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-11-08T20:22:18</date>
+  <millis>1573251738001</millis>
+  <sequence>8</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : return null</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-11-08T20:22:18</date>
+  <millis>1573251738001</millis>
+  <sequence>9</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/VisualizacaoDoPedido/ValidarPedido</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-11-08T20:22:18</date>
+  <millis>1573251738011</millis>
+  <sequence>10</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/VisualizacaoDoPedido/ValidarPedido</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-11-08T20:22:18</date>
+  <millis>1573251738504</millis>
+  <sequence>11</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/8ValidarPedido</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>
